@@ -1,0 +1,6 @@
+{
+  "name": "Grain by Grain",
+  "description": "An incremental beach-sweeping game. Start with a toothbrush, sweep away every grain of sand, sell your haul, and upgrade to industrial coastal gear.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
